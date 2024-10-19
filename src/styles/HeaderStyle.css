@@ -131,3 +131,13 @@ header {
     margin-top: 1rem;
   }
   
+  @media (max-width: 768px) {
+    .header-content {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .header-image {
+      margin-top: 2rem;
+    }
+  }  

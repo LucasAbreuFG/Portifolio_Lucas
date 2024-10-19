@@ -28,3 +28,68 @@ body {
   margin: 0 auto;
   padding: 0 2rem;
 }
+
+main {
+  padding: 4rem 0;
+}
+
+h2 {
+  color: var(--primary-color);
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  position: relative;
+}
+
+h2::after {
+  content: '';
+  display: block;
+  width: 50px;
+  height: 4px;
+  background-color: var(--accent-color);
+  margin: 1rem auto;
+}
+
+.terminal {
+  background-color: var(--code-background);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.terminal-content {
+  font-family: 'Fira Code', monospace;
+}
+
+.command {
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+}
+
+.command::before {
+  content: '$ ';
+  color: var(--accent-color);
+}
+
+.response {
+  color: var(--text-color);
+  margin-bottom: 1rem;
+}
+
+.cta-button {
+  display: inline-block;
+  background-color: var(--primary-color);
+  color: var(--background-color);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  border-radius: 30px;
+  font-weight: bold;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  text-align: center;
+}
+
+.cta-button:hover {
+  background-color: var(--accent-color);
+  transform: scale(1.05);
+}
