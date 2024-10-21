@@ -27,3 +27,16 @@
     font-weight: bold;
     color: var(--accent-color);
   }
+  .testimonial-link {
+    text-decoration: none;
+    color: inherit;
+    display: block; /* Faz a área toda ser clicável */
+  }
+  
+  .testimonial {
+    cursor: pointer;
+  }
+  .testimonial:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* Leve clareamento */
+    opacity: 0.9; /* Suaviza um pouco a opacidade */
+  }
