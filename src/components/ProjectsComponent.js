@@ -7,9 +7,9 @@ const Projects = () => {
         <section id="projetos">
             <h2>Projetos em Destaque</h2>
             <div className="project">
-                <a href='https://ecommerce-chatbot-lucas.vercel.app/' target="_blank" >
+                <a href='https://ecommerce-chatbot-lucas.vercel.app/' target="_blank" rel="noopener noreferrer" >
                     <h3>ChatBot - Assistente de Saúde Noturna da LucasMed</h3>
-                    <p>ChatBot criado inspirado no design da <a className="CimedClass" href="https://cimedremedios.com.br/" target="_blank" >CIMED</a>, trazendo rapidez e resolução de dúvidas genéricas, agilizando atendimento de forma automatizada.</p>
+                    <p>ChatBot criado inspirado no design da <a className="CimedClass" href="https://cimedremedios.com.br/" target="_blank" rel="noopener noreferrer">CIMED</a>, trazendo rapidez e resolução de dúvidas genéricas, agilizando atendimento de forma automatizada.</p>
                     <div className="skills">
                         <span className="skill">React</span>
                         <span className="skill">Node.js</span>
@@ -19,7 +19,7 @@ const Projects = () => {
                 </a>
             </div>
             <div className="project">
-                <a href='https://compspace.onrender.com/' target="_blank" >
+                <a href='https://compspace.onrender.com/' target="_blank" rel="noopener noreferrer">
                     <h3>Game CompSpace</h3>
                     <p>Site criado a fim de por em prova conhecimento em programção, design e principalmente fluxo de comunicação entre processos. Um ótimo projeto que traz a experiência de um jogo retro muito famoso.</p>
                     <div className="skills">
@@ -30,7 +30,7 @@ const Projects = () => {
                 </a>
             </div>
             <div className="project">
-                <a href='https://github.com/LucasAbreuFG/Hackathon-Project_IEEE_GRSS_Boston' target="_blank" >
+                <a href='https://github.com/LucasAbreuFG/Hackathon-Project_IEEE_GRSS_Boston' target="_blank" rel="noopener noreferrer">
                     <h3>Primeiro lugar em Hackathon - IEEE GRSS Boston</h3>
                     <p>O projeto propõe uma abordagem para o desenvolvimento de classificadores de base em Deep Learning para a nuvem de pontos LiDAR, com base em metodologias e ferramentas fornecidas pelo desáfio.</p>
                     <div className="skills">
