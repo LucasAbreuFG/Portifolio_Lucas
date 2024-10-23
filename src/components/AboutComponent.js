@@ -3,7 +3,7 @@ import '../App.css'
 
 const About = () => {
     return (
-        <section id="sobre">
+        <section id="sobre" style={{paddingTop: "2rem"}}>
             <h2>Sobre Mim</h2>
             <div className="terminal">
                 <div className="terminal-content">

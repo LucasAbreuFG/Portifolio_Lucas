@@ -4,7 +4,7 @@ import '../styles/DepoimentoStyle.css'
 
 const Depoimentos = () => {
     return (
-        <section id="depoimentos">
+        <section id="depoimentos" style={{paddingTop: "3rem"}}>
             <h2>Depoimentos</h2>
             <a href="https://www.linkedin.com/in/lucas-abreu-garcia/details/recommendations/?detailScreenTabIndex=0" target="_blank" rel="noopener noreferrer" className="testimonial-link">
                 <div class="testimonial">

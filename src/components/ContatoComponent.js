@@ -8,7 +8,7 @@ const linkedin = process.env.REACT_APP_LINKEDIN;
 const github = process.env.REACT_APP_GITHUB;
 const Contato = () => {
   return (
-    <section id="contato">
+    <section id="contato" style={{paddingTop: "2rem"}}>
       <h2>Vamos Trabalhar Juntos</h2>
       <div class="terminal">
         <div class="terminal-content">
