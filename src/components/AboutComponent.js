@@ -17,7 +17,7 @@ const About = () => {
                     </p>
                     <p className="command">ls -l /skills</p>
                     <p className="response">
-                        JavaScript, TypeScript, Python, React, Vue.js, Node.js, Express, Django, React Native, GraphQL, SQL, MongoDB, Redis, Git, Docker, Kubernetes, AWS, Azure, CI/CD, TDD
+                        JavaScript, TypeScript, Python, React, Vue.js, Node.js, .NET, Django, React Native, Angular, SQL, MongoDB, Redis, Git, Docker, Kubernetes, AWS, Azure, CI/CD, TDD
                     </p>
                 </div>
             </div>
