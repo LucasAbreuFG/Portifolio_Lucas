@@ -3,7 +3,6 @@ import React from 'react';
 import '../App.css'
 import '../styles/ContatoStyle.css'
 
-const whatsappNumber = process.env.REACT_APP_WHATSAPP_NUMBER;
 const linkedin = process.env.REACT_APP_LINKEDIN;
 const github = process.env.REACT_APP_GITHUB;
 const Contato = () => {
