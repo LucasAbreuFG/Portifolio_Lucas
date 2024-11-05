@@ -27,7 +27,7 @@ const Contato = () => {
           </p>
         </div>
       </div>
-      <a href={`https://wa.me/${whatsappNumber}`} target="_blank" rel="noopener noreferrer"  class="cta-button">Iniciar um Projeto Inovador</a>
+      <a href={`${linkedin}`} target="_blank" rel="noopener noreferrer"  class="cta-button">Iniciar um Projeto Inovador</a>
     </section>
   )
 }
