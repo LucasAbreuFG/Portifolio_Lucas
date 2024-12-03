@@ -24,11 +24,6 @@ const Clientes = () => {
           <h3 class="client-name">Axxin Data</h3>
           <p class="client-description">Desenvolvimento de plataforam que realiza as funções básicas de gerenciamento.</p>
         </div>
-        <div class="client-card">
-          <img src="https://media.licdn.com/dms/image/v2/C4E0BAQG_b-DsL7upBA/company-logo_200_200/company-logo_200_200/0/1630635942332/caixavidaeprevidencia_logo?e=1737590400&v=beta&t=NuWXaZqHXrsyEXs2OvGVAhbzY0u8JrKIiDx8oE0h7Qc" alt="EduTech company logo - education technology emblem" class="client-logo" width="120" height="120"/>
-          <h3 class="client-name">Caixa Vida e Providência</h3>
-          <p class="client-description">Conversão e desenvolvimento de APIs e sistemas.</p>
-        </div>
       </div>
     </section>
   )
