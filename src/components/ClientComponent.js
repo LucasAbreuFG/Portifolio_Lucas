@@ -20,7 +20,7 @@ const Clientes = () => {
           <p class="client-description">Desenvolvimento de APIs para consumo de clientes e dentistas da Colgate.</p>
         </div>
         <div class="client-card">
-          <img src="https://media.licdn.com/dms/image/v2/D4D2DAQHP43PFpAy6cg/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1725392199480?e=1739624400&v=beta&t=pGM7wH1V9mgF9Gds6feBPxq9t3gnJ4z9V_k7adTvFcU" alt="FinTech Pro company logo - financial tech symbol" class="client-logo" width="120" height="120"/>
+          <img src="https://media.licdn.com/dms/image/v2/C4D0BAQGuGl4qyvhUcw/company-logo_200_200/company-logo_200_200/0/1673277935381/axxin_data_logo?e=1747872000&v=beta&t=WZqtWtUnvkq4eMvQkyaY7z3TVaHSQ9GXd_ZLKTJ91iQ" alt="Axxin Data" class="client-logo" width="120" height="120"/>
           <h3 class="client-name">Axxin Data</h3>
           <p class="client-description">Desenvolvimento de plataforam que realiza as funções básicas de gerenciamento.</p>
         </div>
